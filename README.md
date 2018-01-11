@@ -9,3 +9,4 @@ Now will try to resolve smartly
  resolve step
 Adding
 I chajnged
+iA new change
